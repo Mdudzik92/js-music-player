@@ -34,5 +34,3 @@ MIT
 <!-- Contact information -->
 
 Email: mdudzik92@gmail.com
-
-https://drive.google.com/file/d/18Su2HS9CYWOs4mk0xddVktSjDol3OsOT/view
